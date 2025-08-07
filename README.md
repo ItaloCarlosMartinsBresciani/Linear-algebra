@@ -2,7 +2,7 @@
 
 ###  Tema: Problema de Procrustes Ortogonal
 
-### 👥 Integrantes
+### Integrantes
 
 * [@anapbatista](https://github.com/anapbatista) – Ana Paula de Abreu Batista 
 * [@ItaloCarlosMartinsBresciani](https://github.com/ItaloCarlosMartinsBresciani) – Italo Carlos Martins Bresciani 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧩 Resumo da Proposta
+### Resumo da Proposta
 
 Neste trabalho, exploramos o **Problema de Procrustes Ortogonal**, que busca encontrar a melhor matriz de rotação para alinhar dois conjuntos de pontos no espaço, minimizando a diferença entre eles.
 
@@ -30,19 +30,19 @@ A implementação prática consistiu nos seguintes passos:
 
 ---
 
-### 👁️ Sobre as Imagens
+###  Sobre as Imagens
 
 Para representar rostos humanos de forma ética e segura, utilizamos imagens da **influencer virtual Aitana López**, uma **IA hiper-realista**. Isso evita problemas de privacidade e permite o estudo em contextos reais com dados sintéticos.
 
 ---
 
-### 📓 Detalhamento Matemático
+### Detalhamento Matemático
 
 A explicação completa dos conceitos matemáticos, incluindo a dedução da matriz de rotação via SVD, está disponível no **notebook** que acompanha este repositório.
 
 ---
 
-### 📚 Referências
+### Referências
 
 * Simon Ensemble (2018). *Orthogonal Procrustes Problem*.
 * Wikipedia. *(Orthogonal Procrustes Problem)*.
