@@ -18,7 +18,7 @@ Essa abordagem tem aplicações importantes, especialmente em **visão computaci
 
 ---
 
-### 🛠️ Implementação e Abordagem
+### Implementação e Abordagem
 
 A implementação prática consistiu nos seguintes passos:
 
